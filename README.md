@@ -1,4 +1,4 @@
-# srisblock.com
+https://github.com/Sri-Maniteja/srisblock.com/
 ![LOGO](web.png)
 Developed by Sri Maniteja
 github: https://github.com/Sri-Maniteja
