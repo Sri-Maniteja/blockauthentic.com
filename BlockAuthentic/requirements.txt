@@ -1,0 +1,27 @@
+Install latest versions of these :
+To install : pip install project name 
+Ex : pip install certifi
+To check the version and its presence in the system : pip show project name 
+Ex : pip show certifi
+(1)certifi
+(2)chardet
+(3)Click
+(4)dask
+(5)decorator
+(6)elasticsearch
+(7)Flask
+(8)idna
+(9)image-match
+(10)itsdangerous
+(11)Jinja2
+(12)MarkupSafe
+(13)networkx
+(14)numpy
+(15)Pillow
+(16)requests
+(17)scikit-image
+(18)scipy
+(19)six
+(20)toolz
+(20)urllib3
+(21)Werkzeug
